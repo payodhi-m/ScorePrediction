@@ -16,8 +16,8 @@ Exploratory Data Analysis:
  
 <img width="666" alt="employerToSalaryPrivatePlot" src="https://user-images.githubusercontent.com/99711349/170152098-4173df43-83b8-48bf-9e1d-05d6134aff32.png">
   
-  
-     <img width="666" alt="employerToSalaryPublicPlot" src="https://user-images.githubusercontent.com/99711349/170152248-5d87ce1b-480b-422b-af9b-34c6b5fbbbe0.png">
+
+<img width="666" alt="employerToSalaryPublicPlot" src="https://user-images.githubusercontent.com/99711349/170152248-5d87ce1b-480b-422b-af9b-34c6b5fbbbe0.png">
 
 
 Installation:
